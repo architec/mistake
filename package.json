@@ -1,6 +1,6 @@
 {
   "name": "leetcode-mistake-tracker",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Help LeetCode users keep track of the LeetCode questions they would like to re-do in the future",
   "license": "MIT",
   "repository": {
